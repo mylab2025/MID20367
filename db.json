@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "SMD TACTILE PUSH-BUTTON SWITCH",
+        "PN": "TS-1102S-FT-7 3H260G9L",
+        "MF": "RMT"
+      },
+      "MID": "MID20367",
+      "MD": "The TS-1102S-FT-7.3H260G9L is a surface-mount device (SMD) 4-pin tactile push-button switch.\r\n\r\n• Type / Category: SMD 4-Pin Tactile Switch (SPST)\n• Dimensions (Footprint): 6 × 6 mm\n• Height: 7.3 mm\n• Rating: DC 12V, 50 mA\n• Operating Force: 260 gf (grams-force)\n• Travel: 0.25 ± 0.1 mm\n• Contact Resistance: 100 mΩ Max\n• Electrical Life: 100,000 cycles",
+      "MT": "Electronic Material",
+      "MQNT": 20,
+      "MCost": 3.0,
+      "MQATG": "#CLASS_0",
+      "ML": "110",
+      "MDS": "https://hk-rmt.en.made-in-china.com/product/PqjnzuMoLyhv/China-SMD-4-Pins-Push-Button-Switch-Tact-Switch-TS-1102S-FT-7-3H260G9L-.html",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20367/main/IMG_20261109_115819.jpg"
+      ]
+    }
+  ]
+}
